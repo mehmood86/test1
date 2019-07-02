@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Nov 10 18:25:21 CET 2016
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=jib_template.tex
+outputFile=jib_template.pdf
+langSpell=en
+markDer=true
+srcDir=
